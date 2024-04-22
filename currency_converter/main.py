@@ -1,6 +1,6 @@
 #How to create a currency converter in python.....
 
-with open('currencyData.txt') as f:
+with open('/currency_converter/currencyData.txt') as f:
     lines = f.readlines()
 
 
