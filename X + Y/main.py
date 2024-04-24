@@ -28,6 +28,7 @@ if __name__=="__main__":
 #2nd solution
 
 def simulate_termination(cards):
+    
     # Initialize the list to keep track of face-up and face-down cards
     card_states = [False] * len(cards)  # False represents face down, True represents face up
 
